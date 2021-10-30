@@ -1,0 +1,6 @@
+#ifndef HOTELCONTROLLER_H_INCLUDED
+#define HOTELCONTROLLER_H_INCLUDED
+
+void inicializaController();
+
+#endif // HOTELCONTROLLER_H_INCLUDED
